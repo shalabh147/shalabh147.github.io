@@ -19,7 +19,7 @@ Hi, I am Shalabh Gupta, and I am a final year undergraduate in the Computer Scie
 I am interested in systems (Operating Systems, System Design, Distributed systems) and elements of Deep Learning.
 
 I'm currently working on my BTech Project (BTP) with Prof. [Umesh Bellur](https://www.cse.iitb.ac.in/~umesh/) and Prof. [Purushottam Kulkarni](https://www.cse.iitb.ac.in/~puru) on optimizations in Serverless Computing frameworks (FaaS). I have previously worked with Prof. [Suyash Awate](https://www.cse.iitb.ac.in/~suyash/) on Conditional Automatic Image Generation of Diabetic Retinopathy images, and Prof. [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) on using Graph Convolutional Networks to find spatial relationships in images. 
-In the summer of 2021, I was a quantitative developer intern at D.E. Shaw. India. In 2019 winters, I worked as a Software Developer Intern at FlexiEle Pvt. Ltd., working on improved extraction and smart identification of resume data for cloud based HR solutions, by building a resume parser. 
+In the summer of 2021, I was a quantitative developer intern at D.E. Shaw. India. In 2019 winters, I worked as a Software Developer Intern at FlexiEle Pvt. Ltd.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
